@@ -1,3 +1,4 @@
+layout_spectrum: 0.5707197573501617
 typography_spectrum: 0.8953357075806707
 color:
   brandStrength: 0.8614734588190913
@@ -10,7 +11,4 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-layout_spectrum: 0.5707197573501617
 name: CASELogix Ltd
-title: CASELogix Ltd
-description: Licence Free Custom ERP
